@@ -2,7 +2,7 @@ Package: com.everest1337.lsalpine
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Everest1337 <everest1337@gmail.com>
-Filename: ./debs/LS_Alpine.deb
+Filename: ./debs/com.everest1337.lsalpine.deb
 Size: 411652
 Section: LockHTML Widgets
 Description: A clean looking LockHTML widget.
