@@ -6,7 +6,7 @@ Filename: ./debs/com.everest1337.lsalpine.deb
 Size: 411654
 Section: LockHTML Widgets
 Description: A clean looking LockHTML widget.
-MD5sum: 108EFAC0ED2D5CB13AC44157111CE641
+MD5sum: 108efac0ed2d5cb13ac44157111ce641
 Author: Everest1337 <everest1337@gmail.com>
 Depiction: https://everest1337.github.io/depic/LS_Alpine/index.html
 Name: LS Alpine
