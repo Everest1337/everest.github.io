@@ -1,9 +1,8 @@
-Origin: My Repo
-Label: My Repo
+Origin: Everest's Repo
+Label: Everest's Repo
 Suite: stable
 Version: 1.0
-Codename: makingarepo
+Codename: everest1337
 Architectures: iphoneos-arm
 Components: main
 Description: My development repo.
-MD5Sum:
