@@ -1,12 +1,12 @@
-Package: com.alexzielenski.tinybar
-Version: 1.0
+Package: com.everest1337.lsalpine
+Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: yourname <yourname@gmail.com>
-Filename: debs//com.alexzielenski.tinybar.deb
-Size: 73556
-Section: Tweaks
-Description: Tinybar for 9.3.3
-MD5sum: 61546DFC8D7D0972D775621DF083B5A8
-Author: yourname <yourname@gmail.com>
-Depiction: https://username.github.io/depic/foldername/index.html
-Name: Tinybar
+Maintainer: Everest1337 <everest1337@gmail.com>
+Filename: debs//com.everest1337.lsalpine
+Size: 411654
+Section: LockHTML Widgets
+Description: A clean looking LockHTML widget.
+MD5sum: 108EFAC0ED2D5CB13AC44157111CE641
+Author: Everest1337 <everest1337@gmail.com>
+Depiction: https://everest1337.github.io/depic/LS_Alpine/index.html
+Name: LS Alpine
