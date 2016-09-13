@@ -6,7 +6,7 @@ Depends: firmware (>9.0), com.bushe.lockhtml4
 Architecture: iphoneos-arm
 Filename: ./debs/com.everest1337.lsalpine_1.0.0-1.deb
 Size: 411638
-MD5sum: f57616ac2370275b7ee34c4a851abe92
+MD5sum: c0b289c583ffbd7a5800f5778c941271
 Description: A clean looking LockHTML Widget.
 Name: LS Alpine
 Author: Everest1337 <everest1337@icloud.com>
