@@ -5,7 +5,7 @@ Maintainer: Everest1337 <everest1337@icloud.com>
 Depends: firmware (>9.0), com.bushe.lockhtml4
 Architecture: iphoneos-arm
 Filename: ./debs/com.everest1337.lsalpine_1.0.0-1.deb
-Size: 411638
+Size: 411666
 MD5sum: 3e3a31bf749fe6f5e7da0ebc6e7c59d9
 Description: A clean looking LockHTML Widget.
 Name: LS Alpine
