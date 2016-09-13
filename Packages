@@ -4,14 +4,14 @@ Section: LockHTML_Widgets
 Maintainer: Everest1337 <everest1337@icloud.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.everest1337.lsalpine_1.0.0-1.deb
-Size: 411692
-MD5sum: 98a17671b1f2f4b8101a5019c5496d38
+Size: 413780
+MD5sum: 6dbe30768790b268229cc6815dfbf19d
 Description: A clean looking LockHTML Widget.
 Name: LS Alpine
 Author: Everest1337 <everest1337@icloud.com>
 Homepage: http://www.everest1337.xyz
 Depiction: https://everest1337.github.io/depictions/?p=com.everest1337.lsalpine
-Icon: http://everest1337.xyz/icons/lsalpine/icon.png
+Icon: file:///var/mobile/Library/LockHTML/LS Alpine/Images/icon.png
 
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
