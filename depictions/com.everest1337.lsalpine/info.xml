@@ -1,0 +1,37 @@
+<package>
+	<id>com.everest1337.lsalpine</id>
+	<name>LS Alpine</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>lockhtml4</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A clean looking LockHTML widget.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Preview</description>
+			<image>lsalpine.jpg</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>First release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>
