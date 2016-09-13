@@ -1,8 +1,0 @@
-Origin: Everest's Repo
-Label: Everest's Repo
-Suite: stable
-Version: 1.0
-Codename: everest1337
-Architectures: iphoneos-arm
-Components: main
-Description: My development repo.
